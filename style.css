@@ -1,0 +1,22 @@
+body {
+    background-size: cover;
+    background-position: center;
+}
+
+.heading {
+    font-size: large;
+    width: 100%;
+    margin: 0px;
+}
+
+canvas {
+    box-shadow: 20px 20px 30px blueviolet;
+    border-radius: 20px;
+    margin-top: 57px;
+}
+
+#status, #object_found, #start_model
+{
+font-size: 18px;
+}
+
